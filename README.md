@@ -9,8 +9,14 @@
 
 ## Running RRT and RRT* Standalone Algorithms
 
-### RRT Algorithm (rrt.py)
+### RRT Algorithm (4_code_rrt.py)
 To run the RRT algorithm, use the following command:
 
 ```bash
-$ python3 4_code_rrt.py
+$ python3 algorithms/4_code_rrt.py
+
+### RRT star Algorithm (4_code_rrt_star.py)
+To run the RRT algorithm, use the following command:
+
+```bash
+$ python3 algorithms/4_code_rrt_star.py
