@@ -1,6 +1,6 @@
 # 3D RRT* with UR3e
 
-## Note
+## Youtube videos
 - **RRT simulation video**: [Watch here](https://www.youtube.com/watch?v=YYwdC_GXb7Q)
 - **RRT-star simulation video**: [Watch here](https://www.youtube.com/watch?v=B2dtDf0w5ew)
 - **Gazebo simulation video**: [Watch here](https://www.youtube.com/watch?v=UKlIfcn6nj0)
@@ -9,11 +9,11 @@
 
 ## Running RRT and RRT* Standalone Algorithms
 
-### RRT Algorithm (rrt.py)
+### RRT Algorithm 
 To run the RRT algorithm, use the following command:
 
 ```bash
-$ python3 4_code_rrt.py
+$ python3 algorithms/4_code_rrt.py
 ```
 
 - The code is initialized with:
@@ -24,11 +24,11 @@ $ python3 4_code_rrt.py
 
 ---
 
-### RRT* Algorithm (rrt_star.py)
+### RRT* Algorithm 
 To run the RRT* algorithm, use the following command:
 
 ```bash
-$ python3 4_code_rrt_star.py
+$ python3 algorithms/4_code_rrt_star.py
 ```
 
 - The code is initialized with:
@@ -77,4 +77,3 @@ $ sudo apt install ros-humble-controller-manager
   - Current drop position: `[0.36, -0.36, 0.1]`
 
 - **Note**: Ensure the pick and drop points are not in the obstacle space. If they are in obstacle space, the algorithm will not return anything.
-```
