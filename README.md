@@ -14,9 +14,11 @@ To run the RRT algorithm, use the following command:
 
 ```bash
 $ python3 algorithms/4_code_rrt.py
+```
 
 ### RRT star Algorithm (4_code_rrt_star.py)
 To run the RRT algorithm, use the following command:
 
 ```bash
 $ python3 algorithms/4_code_rrt_star.py
+```
