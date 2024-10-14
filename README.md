@@ -1,6 +1,6 @@
 # 3D RRT* with UR3e
 
-## Note
+## Youtube Videos
 - **RRT simulation video**: [Watch here](https://www.youtube.com/watch?v=YYwdC_GXb7Q)
 - **RRT-star simulation video**: [Watch here](https://www.youtube.com/watch?v=B2dtDf0w5ew)
 - **Gazebo simulation video**: [Watch here](https://www.youtube.com/watch?v=UKlIfcn6nj0)
